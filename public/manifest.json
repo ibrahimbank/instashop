@@ -1,0 +1,21 @@
+{
+  "name": "InstaShop",
+  "short_name": "InstaShop",
+  "description": "A platform to shop from social media vendors.",
+  "icons": [
+    {
+      "src": "/icons/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#8A0561",
+  "display": "standalone"
+}
